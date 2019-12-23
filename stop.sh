@@ -1,2 +1,2 @@
 #!/bin/bash
-docker-compose -f portaner.yaml stop
+docker-compose -f portainer.yaml stop
